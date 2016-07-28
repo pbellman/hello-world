@@ -2,8 +2,8 @@ New Code II
 
 
 //todo: write get method
-public object GetObject (){
+public string GetObject (){
 	//get object
 	var obj = GetObjFromId(1);
-	return obj;
+	return obj.ToString();
 }
