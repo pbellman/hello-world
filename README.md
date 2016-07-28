@@ -5,4 +5,4 @@ this is my first experience with github.
 
 MAKING CHANGE TO MASTER!
 
-#READ FROM DEF
+#READ FROM DEFINITION FILE TO GET DEFS#
