@@ -2,4 +2,6 @@ New Code II
 
 
 //todo: write get method
-public GetObject (){}
+public GetObject (){
+	//get object
+}
