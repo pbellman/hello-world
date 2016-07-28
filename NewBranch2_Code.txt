@@ -2,7 +2,8 @@ New Code II
 
 
 //todo: write get method
-public GetObject (){
+public object GetObject (){
 	//get object
 	var obj = GetObjFromId(1);
+	return obj;
 }
